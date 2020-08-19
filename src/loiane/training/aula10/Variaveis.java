@@ -1,3 +1,5 @@
+package loiane.training.aula10;
+
 
 public class Variaveis {
 
